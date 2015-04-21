@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Brad Dougherty</string>
+	<key>Builder Version</key>
+	<string>10600.5.17</string>
+	<key>CFBundleDisplayName</key>
+	<string>Clear Console</string>
+	<key>CFBundleIdentifier</key>
+	<string>is.brad.clear-console</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>clear.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Clear the console on reload.</string>
+	<key>DeveloperIdentifier</key>
+	<string>T8JQ346X5E</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://brad.is/software/safari_extensions.plist</string>
+	<key>Website</key>
+	<string>https://brad.is</string>
+</dict>
+</plist>
